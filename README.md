@@ -1,4 +1,4 @@
-# Hi, I'm Meseret 👋
+# Hi, I'm Meseret 
 
 Full-stack developer based in Addis Ababa. I build web apps using the MERN stack and Next.js.
 I also write Solidity smart contracts and work with AI APIs.
