@@ -1,9 +1,16 @@
 # Hi, I'm Meseret 
 
-Full-stack developer based in Addis Ababa. I build web apps using the MERN stack and Next.js.
-I also write Solidity smart contracts and work with AI APIs.
+Full-stack developer based in Addis Ababa. I build fullstack web apps using MERN, PERN, and Next.js. Tech Stacks I've Worked With:  
+- Backend: Node JS, Express JS, REST APIs' , JWT , Zod schema ,bcrypt, Pino logging 
+- Frontend: React, Next.js, JavaScript , TypeScript, Tailwind CSS , Shadcn , React Router v7, React Hook Form 
+- State management: Redux , Zustand , Tanstack Query 
+- Database: MongoDB, PostgreSQL , Supabase , Prisma ,Drizzle 
+- AI and External API integrations: AI automation ,MCP , RAG 
+- Third-Party Integrations: Github API , Vercel API , Chapa payment , Facebook API, Google API, Email(Resend) 
+- Testing Tools: Jest, Vitest, Supertest ,Playwright , Postman 
+- Developer Tools: Git/Github , Docker , CI/CD , Husky , Eslint
 
-I have won three hackathons — a blockchain escrow system, an AI marketing tool, and an AI portfolio generator.
+I have won six hackathons — a job simulator system , a blockchain escrow system, an AI marketing tool, a university club management system,  and an AI portfolio generator.
 I learn fast, ask questions when things are unclear, and look at problems from more than one angle before I start building.
 
 ---
@@ -21,10 +28,11 @@ I learn fast, ask questions when things are unclear, and look at problems from m
 
 ---
 
-## 🚀 Projects I'm proud of
+## 🚀 Projects I worked on
 
 | Project | What it does | Stack |
 |---|---|---|
+| [Worksim](https://worksim.ethiodeploy.com) | Job simulator app for junior developers to get hands on experience by working tasks | PERN , zustand , tanstack query , Prisma ORM |
 | [Athena Nexus](https://athena-nexus.vercel.app) | Community platform for female developers — challenges, milestones, admin console | MERN, Redux, Framer Motion |
 | [Persona AI](https://personaai-build.vercel.app) 🏆 | Upload your resume, connect GitHub — get a full portfolio site in seconds | Next.js, Gemini API |
 | [BlockPay](https://block-pay-six.vercel.app) 🏆 | Freelance escrow on Cardano blockchain — no middleman, no bank | Aiken, Mesh SDK, Node.js |
